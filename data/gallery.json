@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "baseUrl": "https://yudofu185.github.io/new_vrccg_test",
+  "generatedAt": "2026-10-23T09:50:23.078044800+00:00",
+  "libraryImages": [
+    {
+      "id": "41dc041f7b444325",
+      "thumbnail": "thumb/41dc041f7b444325.jpg",
+      "fullsize": "full/41dc041f7b444325.jpg",
+      "version": 1,
+      "caption": "2026/10/09",
+      "hasData": true
+    },
+    {
+      "id": "708980fceb7b47b8",
+      "thumbnail": "thumb/708980fceb7b47b8.jpg",
+      "fullsize": "full/708980fceb7b47b8.jpg",
+      "version": 1,
+      "hasData": true
+    }
+  ],
+  "galleries": [
+    {
+      "galleryId": "test01",
+      "mode": "Grid4",
+      "images": [
+        {
+          "id": "ed240628670a4259",
+          "thumbnail": "thumb/ed240628670a4259.jpg",
+          "fullsize": "full/ed240628670a4259.jpg",
+          "version": 1,
+          "caption": "2026/10/09"
+        },
+        {
+          "id": "d4c6006fad904018",
+          "thumbnail": "thumb/d4c6006fad904018.jpg",
+          "fullsize": "full/d4c6006fad904018.jpg",
+          "version": 1,
+          "caption": "2026/10/09"
+        },
+        {
+          "id": "11eaac5638be4737",
+          "thumbnail": "thumb/11eaac5638be4737.jpg",
+          "fullsize": "full/11eaac5638be4737.jpg",
+          "version": 1,
+          "caption": "2026/10/09"
+        },
+        {
+          "id": "4bad73c608a643bf",
+          "thumbnail": "thumb/4bad73c608a643bf.jpg",
+          "fullsize": "full/4bad73c608a643bf.jpg",
+          "version": 1,
+          "caption": "2026/09/25"
+        },
+        {
+          "id": "8022988614334e13",
+          "thumbnail": "thumb/8022988614334e13.jpg",
+          "fullsize": "full/8022988614334e13.jpg",
+          "version": 1,
+          "caption": "2026/09/28"
+        },
+        {
+          "id": "f5fd3f9bfa85439d",
+          "thumbnail": "thumb/f5fd3f9bfa85439d.jpg",
+          "fullsize": "full/f5fd3f9bfa85439d.jpg",
+          "version": 1,
+          "caption": "2026/07/11"
+        },
+        {
+          "id": "b0f180e20b6344fc",
+          "thumbnail": "thumb/b0f180e20b6344fc.jpg",
+          "fullsize": "full/b0f180e20b6344fc.jpg",
+          "version": 1,
+          "caption": "2026/06/10"
+        },
+        {
+          "id": "d484bec5554946bd",
+          "thumbnail": "thumb/d484bec5554946bd.jpg",
+          "fullsize": "full/d484bec5554946bd.jpg",
+          "version": 1,
+          "caption": "2026/05/16"
+        },
+        {
+          "id": "baa16db076324db6",
+          "thumbnail": "thumb/baa16db076324db6.jpg",
+          "fullsize": "full/baa16db076324db6.jpg",
+          "version": 1,
+          "caption": "2026/04/01"
+        },
+        {
+          "id": "a292ae4227064f89",
+          "thumbnail": "thumb/a292ae4227064f89.jpg",
+          "fullsize": "full/a292ae4227064f89.jpg",
+          "version": 1,
+          "caption": "2026/04/01"
+        },
+        {
+          "id": "ce19f51bd2104577",
+          "thumbnail": "thumb/ce19f51bd2104577.jpg",
+          "fullsize": "full/ce19f51bd2104577.jpg",
+          "version": 1,
+          "caption": "2026/04/01"
+        },
+        {
+          "id": "9f006514a80d4ddd",
+          "thumbnail": "thumb/9f006514a80d4ddd.jpg",
+          "fullsize": "full/9f006514a80d4ddd.jpg",
+          "version": 1,
+          "caption": "2026/04/07"
+        },
+        {
+          "id": "2f2e6fcc207041e9",
+          "thumbnail": "thumb/2f2e6fcc207041e9.jpg",
+          "fullsize": "full/2f2e6fcc207041e9.jpg",
+          "version": 1,
+          "caption": "2026/03/06"
+        },
+        {
+          "id": "65b7d0a456c14f0d",
+          "thumbnail": "thumb/65b7d0a456c14f0d.jpg",
+          "fullsize": "full/65b7d0a456c14f0d.jpg",
+          "version": 1,
+          "caption": "2026/03/07"
+        },
+        {
+          "id": "99f378cdbcfc438b",
+          "thumbnail": "thumb/99f378cdbcfc438b.jpg",
+          "fullsize": "full/99f378cdbcfc438b.jpg",
+          "version": 1,
+          "caption": "2026/03/07"
+        },
+        {
+          "id": "b7f162b34d0248c4",
+          "thumbnail": "thumb/b7f162b34d0248c4.jpg",
+          "fullsize": "full/b7f162b34d0248c4.jpg",
+          "version": 1,
+          "caption": "2026/03/27"
+        },
+        {
+          "id": "43cf8444ed074e06",
+          "thumbnail": "thumb/43cf8444ed074e06.jpg",
+          "fullsize": "full/43cf8444ed074e06.jpg",
+          "version": 1,
+          "caption": "2026/02/10"
+        },
+        {
+          "id": "a4f3a783d2e2425d",
+          "thumbnail": "thumb/a4f3a783d2e2425d.jpg",
+          "fullsize": "full/a4f3a783d2e2425d.jpg",
+          "version": 1,
+          "caption": "2026/02/10"
+        }
+      ]
+    },
+    {
+      "galleryId": "test02",
+      "mode": "SlideShow",
+      "images": [
+        {
+          "id": "d3977ed5383742e0",
+          "thumbnail": "thumb/d3977ed5383742e0.jpg",
+          "fullsize": "full/d3977ed5383742e0.jpg",
+          "version": 1
+        },
+        {
+          "id": "c4a69cde4853456c",
+          "thumbnail": "thumb/c4a69cde4853456c.jpg",
+          "fullsize": "full/c4a69cde4853456c.jpg",
+          "version": 1
+        },
+        {
+          "id": "903e2b8b6bc0476a",
+          "thumbnail": "thumb/903e2b8b6bc0476a.jpg",
+          "fullsize": "full/903e2b8b6bc0476a.jpg",
+          "version": 1
+        },
+        {
+          "id": "b0446787a9d44766",
+          "thumbnail": "thumb/b0446787a9d44766.jpg",
+          "fullsize": "full/b0446787a9d44766.jpg",
+          "version": 1
+        },
+        {
+          "id": "3d0b95a1e341422d",
+          "thumbnail": "thumb/3d0b95a1e341422d.jpg",
+          "fullsize": "full/3d0b95a1e341422d.jpg",
+          "version": 1
+        },
+        {
+          "id": "d2399c51200242ea",
+          "thumbnail": "thumb/d2399c51200242ea.jpg",
+          "fullsize": "full/d2399c51200242ea.jpg",
+          "version": 1
+        },
+        {
+          "id": "87a3c5eed83b4cd2",
+          "thumbnail": "thumb/87a3c5eed83b4cd2.jpg",
+          "fullsize": "full/87a3c5eed83b4cd2.jpg",
+          "version": 1
+        },
+        {
+          "id": "e9b3d03a18774a24",
+          "thumbnail": "thumb/e9b3d03a18774a24.jpg",
+          "fullsize": "full/e9b3d03a18774a24.jpg",
+          "version": 1
+        },
+        {
+          "id": "c5967c9f43904b22",
+          "thumbnail": "thumb/c5967c9f43904b22.jpg",
+          "fullsize": "full/c5967c9f43904b22.jpg",
+          "version": 1
+        },
+        {
+          "id": "9dfc63c741d64835",
+          "thumbnail": "thumb/9dfc63c741d64835.jpg",
+          "fullsize": "full/9dfc63c741d64835.jpg",
+          "version": 1
+        },
+        {
+          "id": "ae0d45abbbd4405e",
+          "thumbnail": "thumb/ae0d45abbbd4405e.jpg",
+          "fullsize": "full/ae0d45abbbd4405e.jpg",
+          "version": 1
+        },
+        {
+          "id": "478073f56d204322",
+          "thumbnail": "thumb/478073f56d204322.jpg",
+          "fullsize": "full/478073f56d204322.jpg",
+          "version": 1
+        },
+        {
+          "id": "247b1ec39f824164",
+          "thumbnail": "thumb/247b1ec39f824164.jpg",
+          "fullsize": "full/247b1ec39f824164.jpg",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "githubRepo": "yudofu185/new_vrccg_test"
+}
