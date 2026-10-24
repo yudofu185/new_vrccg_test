@@ -1,7 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://yudofu185.github.io/new_vrccg_test",
-  "generatedAt": "2026-10-24T03:31:32.118496500+00:00",
+  "generatedAt": "2026-10-24T03:37:01.875848500+00:00",
   "galleries": [
     {
       "galleryId": "test01",
@@ -133,7 +133,9 @@
           "version": 1,
           "caption": "2026/02/10"
         }
-      ]
+      ],
+      "autoplay": true,
+      "interval": 10
     },
     {
       "galleryId": "test02",
@@ -217,7 +219,9 @@
           "fullsize": "full/247b1ec39f824164.jpg",
           "version": 1
         }
-      ]
+      ],
+      "autoplay": true,
+      "interval": 10
     }
   ],
   "githubRepo": "yudofu185/new_vrccg_test"
