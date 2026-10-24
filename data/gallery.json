@@ -1,24 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://yudofu185.github.io/new_vrccg_test",
-  "generatedAt": "2026-10-23T09:50:23.078044800+00:00",
-  "libraryImages": [
-    {
-      "id": "41dc041f7b444325",
-      "thumbnail": "thumb/41dc041f7b444325.jpg",
-      "fullsize": "full/41dc041f7b444325.jpg",
-      "version": 1,
-      "caption": "2026/10/09",
-      "hasData": true
-    },
-    {
-      "id": "708980fceb7b47b8",
-      "thumbnail": "thumb/708980fceb7b47b8.jpg",
-      "fullsize": "full/708980fceb7b47b8.jpg",
-      "version": 1,
-      "hasData": true
-    }
-  ],
+  "generatedAt": "2026-10-24T03:08:12.217303+00:00",
   "galleries": [
     {
       "galleryId": "test01",
